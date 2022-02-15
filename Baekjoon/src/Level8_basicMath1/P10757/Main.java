@@ -13,10 +13,35 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         StringTokenizer st = new StringTokenizer(br.readLine());
-        String a = st.nextToken();
-        String b = st.nextToken();
+        String x = st.nextToken();
+        String y = st.nextToken();
 
+        int maxLength = Integer.max(x.length(), y.length());
 
+        int[] xlist = new int[maxLength+1];
+        int[] ylist = new int[maxLength+1];
+
+        for(int i=0; i<x.length(); i++){
+            xlist[i] = x.charAt(x.length()-1-i) - '0';
+        }
+
+        for(int i=0; i<y.length(); i++){
+            ylist[i] = y.charAt(y.length()-1-i) - '0';
+        }
+
+        for(int i=0; i<=maxLength; i++){
+            xlist[i] += ylist[i];
+            if(xlist[i] >= 10){
+                xlist[i] = xlist[i] % 10;
+                xlist[i+1]++;
+            }
+        }
+
+        for(int i=maxLength; i>=0;i--){
+            if(xlist[i] == 0 && i == maxLength)
+                continue;
+            System.out.print(xlist[i]);
+        }
 
     }
 }

@@ -20,33 +20,18 @@ public class Main {
 
             int distance = b - a;
 
-            int start = 0;
-            int count = 0;
-            while(true){
-                if(distance == 1){
-                    count = 1;
-                    break;
-                }
-                else if(start*start < distance && distance <= (start+1)*(start+1)){
-                    int temp1 = start*start;
-                    int temp2 = (start+1)*(start+1);
+            int max = (int)Math.sqrt(distance);
 
-                    if((temp1+temp2)/2 >= distance){
-                        count = 2*start;
-                    }
-                    else{
-                        count = 2*start + 1;
-                    }
-                    break;
-                }
-                else{
-                    start += 1;
-                }
-
+            if(max == Math.sqrt(distance)){
+                System.out.println(max*2 - 1);
+            }
+            else if(distance <= max*max + max){
+                System.out.println(max*2);
+            }
+            else{
+                System.out.println(max*2 + 1);
             }
 
-
-            System.out.println(count);
         }
     }
 

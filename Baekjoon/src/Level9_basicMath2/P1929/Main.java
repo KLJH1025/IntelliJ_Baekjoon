@@ -14,30 +14,36 @@ public class Main {
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
 
+        //출력값이 많을 수 있으니 StringBuilder를 이용해보자
+        StringBuilder sb = new StringBuilder();
+
+        //StringBuilder를 사용했더니 그냥 System.out.println()을 사용했을때 보다
+        //시간이 800ms에서 264ms까지 줄이는데 성공했다.
+
+
+        // 소수를 구하는 알고리즘: 에라토스테네스의 체를 이용
         boolean[] list = new boolean[M+1];
+        list[0] = list[1] = true;
+        // 소수가 아니면 true, 소수가 맞으면 false
 
-        list[0] = false;
-        list[1] = false;
-        for(int i=2; i<=M; i++){
+        for(int i=2; i <= Math.sqrt(M); i++){
+            if(list[i] == true)
+                continue;
 
-        }
-
-        for(int i=N; i<=M; i++){
-            if(function(i))
-                System.out.println(i);
-        }
-
-    }
-
-    static boolean function(int a){
-        if(a < 2)
-            return false;
-        else{
-            for(int i=2; i<=Math.sqrt(a); i++){
-                if(a%i == 0)
-                    return false;
+            for(int j = i*i; j <= M; j+=i){
+                list[j] = true;
             }
-            return true;
         }
+
+        for(int i=N; i <= M; i++){
+            if(list[i] == false)
+                sb.append(i).append('\n');
+        }
+
+        System.out.println(sb);
+
+
     }
+
+
 }
