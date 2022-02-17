@@ -1,4 +1,4 @@
-package Level14_backTracking;
+package Level12_sort.P1427;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -8,9 +8,9 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
 
-        System.setIn(new FileInputStream("src/Level14_backTracking/input.txt"));
+        System.setIn(new FileInputStream("src/Level12_sort/P1427/input.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
 
     }
 }
-
