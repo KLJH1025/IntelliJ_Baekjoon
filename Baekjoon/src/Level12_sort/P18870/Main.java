@@ -14,25 +14,34 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int N = Integer.parseInt(br.readLine());
-
-        HashSet<Integer> hashset = new HashSet<>();
-
         StringTokenizer st = new StringTokenizer(br.readLine());
-        ArrayList<Integer> array = new ArrayList<>();
+
+        int[] arr = new int[N];
+        int[] sortArr = new int[N];
 
         for(int i=0; i<N; i++){
             int temp = Integer.parseInt(st.nextToken());
-            array.add(temp);
-            hashset.add(temp);
+            arr[i] = temp;
+            sortArr[i] = temp;
         }
 
-        List<Integer> list = hashset.stream().collect(Collectors.toList());
+        Arrays.sort(sortArr);
 
-        Collections.sort(list);
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        int rank = 0;
+
+        for(int i=0; i<N; i++){
+            if(!map.containsKey(sortArr[i])){
+               map.put(sortArr[i], rank);
+               rank++;
+            }
+        }
 
         StringBuilder sb = new StringBuilder();
-        for(int k : array){
-            sb.append((list.indexOf(k))).append(" ");
+
+        for(int i=0; i<N; i++){
+            sb.append(map.get(arr[i])).append(" ");
         }
 
         System.out.println(sb);

@@ -1,29 +1,25 @@
-package Level11_bruteForce.P1018;
+package Level11_bruteForce.P0000;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.util.Scanner;
 
 public class Main {
 
     public static boolean[][] arr;
     public static int min = 64;
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
 
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        Scanner in = new Scanner(System.in);
 
-        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
-
-        int N = Integer.parseInt(st.nextToken());
-        int M = Integer.parseInt(st.nextToken());
+        int N = in.nextInt();
+        int M = in.nextInt();
 
         arr = new boolean[N][M];
 
 
         // 배열 입력
         for (int i = 0; i < N; i++) {
-            String str = br.readLine();
+            String str = in.next();
 
             for (int j = 0; j < M; j++) {
                 if (str.charAt(j) == 'W') {
