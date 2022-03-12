@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48163b0b-a3b9-4e1b-a17a-a274ecdb083c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IntelliJ_Baekjoon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/out/production/Baekjoon/Level10_recursive/P11729/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/out/production/Baekjoon/Level10_recursive/P11729/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/out/production/Baekjoon/Level11_bruteForce/P0000/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/out/production/Baekjoon/Level11_bruteForce/P0000/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/out/production/Baekjoon/Level11_bruteForce/P1018/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/out/production/Baekjoon/Level11_bruteForce/P1018/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/out/production/Baekjoon/Level12_sort/P18870/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/out/production/Baekjoon/Level12_sort/P18870/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/out/production/Baekjoon/Level14_backTracking/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/out/production/Baekjoon/Level14_backTracking/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/out/production/Baekjoon/Level14_backTracking/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/out/production/Baekjoon/Level14_backTracking/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/src/Level14_backTracking/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/src/Level14_backTracking/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/src/Level14_backTracking/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/src/Level14_backTracking/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/SDS_Algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY0/P1065/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY0/P10951/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY0/P10951/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY0/P1157/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY0/P1157/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY0/P4344/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY0/P4344/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY0/P4673/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY0/P4673/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P1713/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P1713/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P1713/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P1713/Main_Teacher$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P1713/Main_Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P1713/Participate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P1713/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P1713/SortTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P1713/SortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P1713/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P1759/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P1759/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P3055/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P3055/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY1/P3055/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY2/P1806/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY2/P1806/Main_Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY2/P1806/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY2/P2003/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY2/P2003/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY2/P2143/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY2/P2143/Main_Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY2/P2143/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY2/P2805/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY2/P2805/Main_Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY2/P2805/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY3/P1202/Jewel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY3/P1202/Jewelry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY3/P1202/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY3/P1202/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY3/P1202/Main_Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY3/P1202/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY3/P1927/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY3/P1927/Main_Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY3/P1927/MinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY3/P1927/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY4/P14476/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY4/P14476/Main_Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY4/P14476/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY4/P2243/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY4/P2243/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY4/P9202/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY4/P9202/TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY4/P9202/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY5/P3955/EGResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY5/P3955/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/DAY5/P3955/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/out/production/SDS_Algorithm/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY0/P1065/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY0/P10951/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY0/P10951/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY0/P1157/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY0/P1157/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY0/P4344/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY0/P4344/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY0/P4673/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY0/P4673/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY1/P1713/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY1/P1713/Main_Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY1/P1713/SortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY1/P1713/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY1/P1759/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY1/P1759/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY1/P3055/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY1/P3055/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY2/P1806/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY2/P1806/Main_Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY2/P1806/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY2/P2003/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY2/P2003/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY2/P2143/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY2/P2143/Main_Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY2/P2143/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY2/P2805/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY2/P2805/Main_Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY2/P2805/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY3/P1202/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY3/P1202/Main_Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY3/P1202/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY3/P1927/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY3/P1927/Main_Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY3/P1927/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY4/P14476/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY4/P14476/Main_Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY4/P14476/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY4/P2243/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY4/P2243/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY4/P9202/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY4/P9202/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY5/P3955/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/DAY5/P3955/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDS_Algorithm/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level10_recursive/P11729/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level10_recursive/P11729/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level10_recursive/P2447/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level10_recursive/P2447/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level11_bruteForce/P0000/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level11_bruteForce/P1018/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level11_bruteForce/P1018/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P10814/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P10814/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P10814/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P10989/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P10989/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P1181/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P1181/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P1181/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P1427/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P1427/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P18870/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P18870/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P2108/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P2108/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P2751/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level12_sort/P2751/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level14_backTracking/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level14_backTracking/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level4_while/P10951/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level4_while/P10951/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level5_1Darray/P4344/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level5_1Darray/P4344/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level6_function/P1065/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level6_function/P1065/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level6_function/P4673/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level6_function/P4673/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level7_string/P1152/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level7_string/P1152/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level7_string/P1157/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level7_string/P1157/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level7_string/P11654/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level7_string/P11654/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level7_string/P1316/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level7_string/P1316/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level7_string/P2941/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level7_string/P2941/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P1011/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P1011/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P10250/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P10250/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P10757/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P10757/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P1193/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P1193/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P2775/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P2775/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P2839/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P2839/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P2869/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level8_basicMath1/P2869/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level9_basicMath2/P1929/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level9_basicMath2/P1929/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level9_basicMath2/P2581/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level9_basicMath2/P2581/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level9_basicMath2/P3053/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level9_basicMath2/P3053/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level9_basicMath2/P4948/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Baekjoon/Level9_basicMath2/P4948/input.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="265gEyMWSNqilxFmCLV12Swq23m" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48163b0b-a3b9-4e1b-a17a-a274ecdb083c" name="Changes" comment="" />
+      <created>1646718755174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646718755174</updated>
+    </task>
+    <servers />
+  </component>
+</project>
